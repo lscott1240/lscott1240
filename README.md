@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lscott1240
-- 👀 I’m interested in ... help with homework and labs
-- 🌱 I’m currently learning ... Computer Science
-- 💞️ I’m looking to collaborate on ... coding problems
+- 👀 I’m interested in ... sharing code for labs and connecting with employers
+- 🌱 I’m currently learning ... Computer Science and Data Science
+- 💞️ I’m looking to collaborate on ... coding problems and labs
 - 📫 How to reach me ... email <lscott1240@gmail.com> discord <Happy #2301>
 
 <!---
